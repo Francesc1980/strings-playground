@@ -8,3 +8,4 @@ for (let i = 0; i < saludo.length; i++) {
 }
 
 // ¿Cuántas veces se ha ejecutado la línea 7 al hacer node ex2.js? ¿Por qué?
+//Se ha ejecutado la cadena Buen dia 9 vezes ya que es el numero de caracteres que tiene la cadena contando el espcio comillas y el sim
